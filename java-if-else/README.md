@@ -1,4 +1,4 @@
-[Problem's link](https://www.hackerrank.com/challenges/java-if-else/problem)
+[Link to problem](https://www.hackerrank.com/challenges/java-if-else/problem)
 
 Task
 Given an integer, n, perform the following conditional actions:

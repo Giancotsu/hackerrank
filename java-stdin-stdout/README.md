@@ -1,4 +1,4 @@
-[Problem's link](https://www.hackerrank.com/challenges/java-stdin-stdout/problem)
+[Link to problem](https://www.hackerrank.com/challenges/java-stdin-stdout/problem)
 
 In this challenge, you must read an integer, a double, and a String from stdin, then print the values according to the instructions in the Output Format section below. To make the problem a little easier, a portion of the code is provided for you in the editor.
 
